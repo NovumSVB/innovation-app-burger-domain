@@ -20,36 +20,56 @@ Several other mock api's are available, see the list below.
     </thead>
     <tbody>
         <tr>
-<td>CBS</td>
-<td><a href="https://api.cbs.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.cbs.demo.novum.nu">api</a>
-<td>Basisregistratie inkomen</td>
-<td><a href="https://api.belastingdienst.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.belastingdienst.demo.novum.nu">api</a>
-<td>Digid</td>
-<td><a href="https://api.digid.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.digid.demo.novum.nu">api</a>
-<td>Sociale verzekeringsbank</td>
-<td><a href="https://api.svb.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.svb.demo.novum.nu">api</a>
-<td>UWV</td>
-<td><a href="https://api.uwv.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.uwv.demo.novum.nu">api</a>
-<td>Basisregistratie persoonsgegevens</td>
-<td><a href="https://api.gemeente.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.gemeente.demo.novum.nu">api</a>
-<td>Centraal justitieel incassobureau</td>
-<td><a href="https://api.cjib.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.cjib.demo.novum.nu">api</a>
-<td>Een overheid</td>
-<td><a href="https://api.overheid.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.overheid.demo.novum.nu">api</a>
-<td>Dit endpoint simuleert de burger</td>
-<td><a href="https://api.burger.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.burger.demo.novum.nu">api</a>
-<td>Justitie en veiligheid</td>
-<td><a href="https://api.justitie.demo.novum.nu">documentation</a></td>
-<td><a href="https://api.justitie.demo.novum.nu">api</a>
+<tr>
+    <td>CBS</td>
+    <td><a href="https://api.cbs.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.cbs.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Basisregistratie inkomen</td>
+    <td><a href="https://api.belastingdienst.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.belastingdienst.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Digid</td>
+    <td><a href="https://api.digid.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.digid.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Sociale verzekeringsbank</td>
+    <td><a href="https://api.svb.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.svb.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>UWV</td>
+    <td><a href="https://api.uwv.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.uwv.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Basisregistratie persoonsgegevens</td>
+    <td><a href="https://api.gemeente.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.gemeente.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Centraal justitieel incassobureau</td>
+    <td><a href="https://api.cjib.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.cjib.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Een overheid</td>
+    <td><a href="https://api.overheid.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.overheid.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Dit endpoint simuleert de burger</td>
+    <td><a href="https://api.burger.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.burger.demo.novum.nu">api</a>
+</tr>
+<tr>
+    <td>Justitie en veiligheid</td>
+    <td><a href="https://api.justitie.demo.novum.nu">documentation</a></td>
+    <td><a href="https://api.justitie.demo.novum.nu">api</a>
+</tr>
     </tbody>
     
 </table>
