@@ -1,6 +1,6 @@
-# Mock Dit endpoint simuleert de burger, 
-This package contains domain files for a mock api of the Dit endpoint simuleert de burger. Together with their corresponding site files 
-they make up a mock API  + admin panel of Dit endpoint simuleert de burger.
+# Mock Burger simulatie, 
+This package contains domain files for a mock api of the Burger simulatie. Together with their corresponding site files 
+they make up a mock API  + admin panel of Burger simulatie.
 
 ## Background
 From an article of the Dutch Ombudsmen about the government and its relation with civilians one important conclusion was 
@@ -13,59 +13,70 @@ Several other mock api's are available, see the list below.
 <table>
     <thead>
         <tr>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>#</th>
+            <th>Government instance</th>
+            <th>-</th>
+            <th>-</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <tr>
+    <td>1</td>
     <td>CBS</td>
     <td><a href="https://api.cbs.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.cbs.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>2</td>
     <td>Basisregistratie inkomen</td>
     <td><a href="https://api.belastingdienst.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.belastingdienst.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>3</td>
     <td>Digid</td>
     <td><a href="https://api.digid.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.digid.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>4</td>
     <td>Sociale verzekeringsbank</td>
     <td><a href="https://api.svb.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.svb.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>5</td>
     <td>UWV</td>
     <td><a href="https://api.uwv.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.uwv.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>6</td>
     <td>Basisregistratie persoonsgegevens</td>
     <td><a href="https://api.gemeente.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.gemeente.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>7</td>
     <td>Centraal justitieel incassobureau</td>
     <td><a href="https://api.cjib.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.cjib.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>8</td>
     <td>Een overheid</td>
     <td><a href="https://api.overheid.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.overheid.demo.novum.nu">api</a>
 </tr>
 <tr>
-    <td>Dit endpoint simuleert de burger</td>
+    <td>9</td>
+    <td>Burger simulatie</td>
     <td><a href="https://api.burger.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.burger.demo.novum.nu">api</a>
 </tr>
 <tr>
+    <td>10</td>
     <td>Justitie en veiligheid</td>
     <td><a href="https://api.justitie.demo.novum.nu">documentation</a></td>
     <td><a href="https://api.justitie.demo.novum.nu">api</a>
@@ -74,7 +85,7 @@ Several other mock api's are available, see the list below.
     
 </table>
 
-## Try have a look
+## Try / have a look
 If you wish to have a look at the system, the API's are reachable trough the public internet or via 
 [NlX](https://directory.demo.nlx.io/). The respective admin panels are also available on the public internet. Please 
 contact us if you would like to peek around. We are happy to generate a login for you.
