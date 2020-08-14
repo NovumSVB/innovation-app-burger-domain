@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsd/v1/schema-plus-crud.xsd" >
+
+    <title>Dit endpoint simuleert de burger</title>
+    <description>
+        Fungeert als trigger voor het vullen van de overige systemen
+    </description>
+    <api_version>2</api_version>
+    <organisation>Novum</organisation>
+    <api_dir>api.burger.demo.novum.nu</api_dir>
+    <api_namespace>ApiNovumBurger</api_namespace>
+
+    <nlx_local_in>76510</nlx_local_in>
+    <nlx_local_out>76620</nlx_local_out>
+
+    <servers>
+        <server description="Production API" url="https://api.burger.demo.novum.nu"/>
+        <server description="Production user application" url="https://admin.burger.demo.novum.nu"/>
+        <server description="Test API" url="https://api.test.burger.demo.novum.nu"/>
+        <server description="Test API documentation" url="https://api.test.burger.demo.novum.nu"/>
+        <server description="Test user application" url="https://admin.test.burger.demo.novum.nu"/>
+    </servers>
+
+    <contacts>
+        <contact name="Anton Boutkam" email="anton@novum.nu" type="TECHNICAL" />
+        <contact name="anton@novum.nu" email="anton@novum.nu" type="SUPPORT" />
+    </contacts>
+
+    <endpoint_url>https://api.burger.demo.novum.nu</endpoint_url>
+    <documentation_url>https://api.burger.demo.novum.nu</documentation_url>
+    <authorization_model>none</authorization_model>
+</api>
+
+

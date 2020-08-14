@@ -1,0 +1,9 @@
+{
+	"name" : "novum/domain-burger",
+	"type" : "novum-domain",
+	"stability" : "dev",
+	"require" : {
+		"novum/innovation-app-core" : "*",
+		"hurah/hurah-installer" :  "*"
+	}
+}

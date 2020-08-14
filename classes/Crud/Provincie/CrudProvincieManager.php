@@ -1,0 +1,19 @@
+<?php
+namespace Crud\Custom\NovumBurger\Provincie;
+
+/**
+ * Skeleton subclass for representing a Provincie.
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * You should add additional methods to this class to meet the
+ * application requirements.  This class will only be generated as
+ * long as it does not already exist in the output directory.
+ */
+final class CrudProvincieManager extends Base\CrudProvincieManager
+{
+}
