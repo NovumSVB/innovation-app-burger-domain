@@ -60,4 +60,4 @@ functionality. Please feel free to submit a pull request or contact us whenever 
 any way.
     
 ## More info
-Please refer to the (documentation)[https://docs.demo.novum.nu] if you need more information or are interested in doing a custom installation.
+Please refer to the [documentation](https://docs.demo.novum.nu) if you need more information or are interested in doing a custom installation.
