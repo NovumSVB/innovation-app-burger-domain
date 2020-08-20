@@ -5,7 +5,7 @@
     "require": {
         "novum/innovation-app-core": "*",
         "hurah/hurah-installer": "*",
-        "PHP": "7.3"
+        "PHP": ">=7.3"
     },
     "license": "MIT",
     "prefer-stable": true,
@@ -17,7 +17,7 @@
             "AdminModules\\": "admin_modules"
         }
     },
-    "description": "Fake \"Burger simulatie\" domain definition files",
+    "description": "Fake \"Nederlandse Burger\" domain definition files",
     "homepage": "https://innovatie.app.demo.novum.nu",
     "minimum-stability": "dev",
     "keywords": [
