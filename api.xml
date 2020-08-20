@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <api xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsdv1/api-info.xsd" >
 
-    <title>Burger simulatie</title>
+    <title>Nederlandse Burger</title>
     <description>
         Fungeert als trigger voor het vullen van de overige systemen
     </description>
