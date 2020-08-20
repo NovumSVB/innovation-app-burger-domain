@@ -1,14 +1,14 @@
 {
-    "authors": [
-        {
-            "name": "Anton Boutkam",
-            "email": "anton@novum.nu"
-        },
-        {
-            "name": "Novum, het innovatielab van de Sociale Verzekeringsbank",
-            "email": "info@novum.nu"
-        }
-    ],
+    "name": "novum/domain-burger",
+    "type": "novum-domain",
+    "stability": "dev",
+    "require": {
+        "novum/innovation-app-core": "*",
+        "hurah/hurah-installer": "*",
+        "PHP": "7.3"
+    },
+    "license": "MIT",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Core\\": "classes/Core",
@@ -19,17 +19,21 @@
     },
     "description": "This package contains datamodel related information for the FAKE \\\"Burger simulatie\\\" created by the Novum Innovation Lab as part of their \"een overheid / one government\" project",
     "homepage": "https://innovatie.app.demo.novum.nu",
+    "minimum-stability": "dev",
     "keywords": [
         "novum",
         "innovatie lab",
         "nlx",
         "api"
     ],
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {
-        "PHP": "7.3"
-    },
-    "stability": "dev"
+    "authors": [
+        {
+            "name": "Anton Boutkam",
+            "email": "anton@novum.nu"
+        },
+        {
+            "name": "Novum, het innovatielab van de Sociale Verzekeringsbank",
+            "email": "info@novum.nu"
+        }
+    ]
 }
