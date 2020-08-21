@@ -8,14 +8,6 @@
     },
     "license": "MIT",
     "prefer-stable": true,
-    "autoload": {
-        "psr-4": {
-            "Core\\": "classes/Core",
-            "Crud\\": "classes/Crud",
-            "Model\\": "classes/Model",
-            "AdminModules\\": "admin_modules"
-        }
-    },
     "description": "Fake \"Nederlandse Burger\" domain definition files",
     "homepage": "https://innovatie.app.demo.novum.nu",
     "minimum-stability": "dev",
