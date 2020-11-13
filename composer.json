@@ -26,5 +26,9 @@
             "name": "Novum, het innovatielab van de Sociale Verzekeringsbank",
             "email": "info@novum.nu"
         }
-    ]
+    ],
+    "extra": {
+        "system_id": "novum.burger"
+    }
+
 }
