@@ -1,5 +1,4 @@
 <?php
-use Core\Cfg;
 
 /***
 * This file is generated, please do not modify manually.
@@ -31,5 +30,5 @@ else
 
 $aConfig['CUSTOM_NAMESPACE'] = 'NovumBurger';
 
-Cfg::set($aConfig);
+return $aConfig;
 
