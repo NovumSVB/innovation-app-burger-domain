@@ -1,8 +1,4 @@
 <?php
-require_once '../../../../vendor/autoload.php';
-require_once '../../../../config/novum.burger/propel/config.php';
-require_once '../../../../config/novum.burger/config.php';
-
 
 use Model\Custom\NovumCbs\Stam\GeslachtQuery;
 use Model\Custom\NovumCbs\Stam\Geslacht;
