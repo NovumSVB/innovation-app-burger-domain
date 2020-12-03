@@ -1,7 +1,4 @@
 <?php
-require_once '../../../../vendor/autoload.php';
-require_once '../../../../config/novum.burger/propel/config.php';
-require_once '../../../../config/novum.burger/config.php';
 $servicename = 'burger';
 $password = 'Mkwhwm!2020'; // Makkelijker kunnen we het wel maken!
 
