@@ -121,7 +121,7 @@
         <behavior name="timestampable"/>
     </table>
 
+    <external-schema filename="../../schema/schema.xml"/>
+    <external-schema filename="../../schema/core-schema-extra.xml" />
     <external-schema filename="../../schema/novum-schema.xml" />
-    <external-schema filename="../../schema/core-schema-extra.xml"/>
-    <external-schema filename="../../schema/core-schema.xml"/>
 </database>
