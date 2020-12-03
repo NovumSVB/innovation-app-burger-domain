@@ -1,7 +1,7 @@
 <?php
 
-use Model\Custom\NovumCbs\Stam\GeslachtQuery;
-use Model\Custom\NovumCbs\Stam\Geslacht;
+use Model\Custom\NovumBurger\Stam\GeslachtQuery;
+use Model\Custom\NovumBurger\Stam\Geslacht;
 
 $aGeslachten = [
     'Man' => 'M',

@@ -1,6 +1,6 @@
 <?php
-use Model\Custom\NovumCbs\Stam\GemeenteQuery;
-use Model\Custom\NovumCbs\Stam\Gemeente;
+use Model\Custom\NovumBurger\Stam\GemeenteQuery;
+use Model\Custom\NovumBurger\Stam\Gemeente;
 
 $sGeoData = file_get_contents('https://opendata.cbs.nl/ODataApi/OData/84489NED/TypedDataSet');
 $aGeoData = json_decode($sGeoData, true);

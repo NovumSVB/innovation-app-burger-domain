@@ -1,7 +1,7 @@
 <?php
 
-use Model\Custom\NovumCbs\Stam\ProvincieQuery;
-use Model\Custom\NovumCbs\Stam\Provincie;
+use Model\Custom\NovumBurger\Stam\ProvincieQuery;
+use Model\Custom\NovumBurger\Stam\Provincie;
 
 $sGeoData = file_get_contents('https://opendata.cbs.nl/ODataApi/OData/84489NED/TypedDataSet');
 $aGeoData = json_decode($sGeoData, true);
