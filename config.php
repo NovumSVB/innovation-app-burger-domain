@@ -22,7 +22,7 @@ else
         'PROTOCOL' => 'https',
         'ADMIN_PROTOCOL' => 'https',
         'CUSTOM_FOLDER' => 'NovumBurger',
-        'DOMAIN' => 'burger.demo.novum.nuidev.nl',
+        'DOMAIN' => 'burger.demo.novum.nu',
         'ABSOLUTE_ROOT' => '/var/www/1overheid/burger/system/',
         'DATA_DIR' => '/home/novum/data/burger'
     ];
